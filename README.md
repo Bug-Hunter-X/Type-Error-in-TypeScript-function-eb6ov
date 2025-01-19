@@ -1,0 +1,1 @@
+This repository contains a simple TypeScript program that demonstrates a common type error. The `greeter` function expects a string argument, but the `user` variable is an array of strings. This results in a type error when the program is compiled. The solution shows how to modify the code to fix the error.
